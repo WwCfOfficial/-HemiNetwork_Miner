@@ -1,11 +1,11 @@
-# HemiNetwork_Miner by @ColonyAirdrops
+# HemiNetwork_Miner by @WwCfOfficial
 ---
 - Offical Docs - [Hemi_Miner_CLI](https://docs.hemi.xyz/how-to-tutorials/tutorials/setup-part-1)
-- Watch Video - [Youtube](https://youtu.be/Cu3D6CQ85T4)
+- Watch Video - [Youtube](https://youtu.be/M31JN1Q_sus?si=fC2FGce5jcSozm7q)
 
 ## 1. Binaries
 - Visit [binaries](https://github.com/hemilabs/heminetwork/releases)
-- Download (heminetwork_v0.4.3_linux_amd64.tar.gz) file
+- Download (heminetwork_v0.11.5_linux_amd64.tar.gz) file
 - Use Termius and copy the file to your VPS
 
 - Now Follow commands
@@ -26,10 +26,10 @@ sudo apt install screen
 screen -S hemi
 ```
 ```bash
-tar xvf heminetwork_v0.4.3_linux_amd64.tar.gz
+tar xvf heminetwork_v0.11.5_linux_amd64.tar.gz
 ```
 ```bash
-cd heminetwork_v0.4.3_linux_amd64
+cd heminetwork_v0.11.5_linux_amd64
 ```
 
 ## 2. Verify Configuration Success
@@ -90,5 +90,6 @@ screen -r hemi
 - Check status : [Miner_Status](https://testnet.popstats.hemi.network/)
 
 - Done !! Feel free to ask queries in telegram channel
-- Telegram - https://t.me/colonyairdrops
-- Youtube - https://www.youtube.com/@ColonyAirdrops
+- Telegram - https://t.me/WwCfAirdrops
+- Youtube - https://youtube.com/@WwCfOfficial
+- Twitter - https://x.com/WwCfOfficial

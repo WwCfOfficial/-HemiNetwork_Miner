@@ -1,11 +1,11 @@
-# HemiNetwork_Miner Upgrade to v0.4.5 by @ColonyAirdrops
+# HemiNetwork_Miner Upgrade to v0.11.5 by @WwCfOfficial
 ---
 - Offical Docs - [Hemi_Miner_CLI](https://docs.hemi.xyz/how-to-tutorials/tutorials/setup-part-1)
 - Watch Video - [Youtube](https://youtu.be/SDsC3CCBIW0)
 
 ## 1. Binaries
 - Visit [binaries](https://github.com/hemilabs/heminetwork/releases)
-- Download (heminetwork_v0.4.5_linux_amd64.tar.gz) file
+- Download (heminetwork_v0.11.5_linux_amd64.tar.gz) file
 - Use Termius and copy the file to your VPS
 
 - Now Follow commands
@@ -17,10 +17,10 @@ screen -r hemi
 ```
 - Use CTRL C to exit the node if running and go to hemi-miner directory using cd ..
 ```bash
-tar xvf heminetwork_v0.4.5_linux_amd64.tar.gz
+tar xvf heminetwork_v0.11.5_linux_amd64.tar.gz
 ```
 ```bash
-cd heminetwork_v0.4.5_linux_amd64
+cd heminetwork_v0.11.5_linux_amd64
 ```
 
 ## 2. Verify Configuration Success
@@ -66,5 +66,6 @@ screen -r hemi
 ### Follow Same Procedure to upgrade to next releases
 
 - Done !! Feel free to ask queries in telegram channel
-- Telegram - https://t.me/colonyairdrops
-- Youtube - https://www.youtube.com/@ColonyAirdrops
+- Telegram - https://t.me/WwCfAirdrops
+- Youtube - https://youtube.com/@WwCfOfficial
+- Twitter - https://x.com/WwCfOfficial
