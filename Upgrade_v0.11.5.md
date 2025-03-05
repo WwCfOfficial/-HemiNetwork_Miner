@@ -1,7 +1,7 @@
 # HemiNetwork_Miner Upgrade to v0.11.5 by @WwCfOfficial
 ---
 - Offical Docs - [Hemi_Miner_CLI](https://docs.hemi.xyz/how-to-tutorials/tutorials/setup-part-1)
-- Watch Video - [Youtube](https://youtu.be/SDsC3CCBIW0)
+- Watch Video - [Youtube](https://youtu.be/mD0RM5K2fIU?si=vjJJBk37UgOs4y2F)
 
 ## 1. Binaries
 - Visit [binaries](https://github.com/hemilabs/heminetwork/releases)
